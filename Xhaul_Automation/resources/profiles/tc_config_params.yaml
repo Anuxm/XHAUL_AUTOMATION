@@ -1,0 +1,4 @@
+TC_Config_Params:
+  test_falcon_tc1:
+    profile_name : "CS28-LDPC087-8k-RSt4-SRRC017-p35-h252.txt"
+    mainfal_cmd : "mainfalcon &"

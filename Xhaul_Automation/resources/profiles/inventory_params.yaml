@@ -1,0 +1,32 @@
+Dynamic_Params:
+  Server:
+    password: mi5glin@08
+    serverIp: 172.20.0.12
+    serverPort: '4081'
+    user_name: mi5glin08
+  Target_Server1:
+    password: root
+    targetIp: 172.20.0.28
+    username: root
+  Target_Server2:
+    epicIp: 10.0.2.3
+    password: root
+    username: root
+  baseUrl: http://172.20.0.12:4181/
+  ffpath: /home/mi5glin08/xhaul_demo/Xhaul_Automation/resources/profiles
+Static_Params:
+  Server:
+    password: mi5glin@08
+    serverIp: 172.20.0.12
+    serverPort: '4081'
+    user_name: mi5glin08
+  Target_Server1:
+    password: root
+    targetIp: 172.20.0.28
+    username: root
+  Target_Server2:
+    epicIp: 10.0.2.3
+    password: root
+    username: root
+  baseUrl: http://172.20.0.12:4181/
+  ffpath: /home/mi5glin08/xhaul_demo/Xhaul_Automation/resources/profiles
